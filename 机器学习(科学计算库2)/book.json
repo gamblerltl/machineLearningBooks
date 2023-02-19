@@ -1,0 +1,12 @@
+{
+	"plugins": [
+		"katex",
+		"expandable-chapters",
+		"splitter"
+		],
+	 "pluginsConfig": {
+		 "theme-default": {
+      	 		 "showLevel": true
+   		 }
+    }
+}

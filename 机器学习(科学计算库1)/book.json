@@ -1,0 +1,7 @@
+{
+	"plugins": [
+		"katex",
+		"expandable-chapters",
+		"splitter"
+		]
+}
